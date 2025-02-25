@@ -7,7 +7,7 @@ const links = [
   { name: 'Instagram', href: 'https://instagram.com', icon: 'entypo-social:instagram' }
 ];
 </script>
-<!--
+
 <template>
   <footer class="bg-gray-900 relative z-0 w-full">
     
@@ -31,4 +31,3 @@ const links = [
     </section>
   </footer>
 </template>
--->
